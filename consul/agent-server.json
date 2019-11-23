@@ -1,0 +1,11 @@
+{
+  "datacenter": "dc-vm-1",
+  "node_name": "agent-server",
+  "data_dir": "/opt/consul",
+  "log_level": "INFO",
+  "server": true,
+  "bootstrap": true,
+  "bootstrap-expect": 1,
+  "client": "0.0.0.0",
+  "ui": true
+}
