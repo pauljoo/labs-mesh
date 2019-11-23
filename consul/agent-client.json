@@ -1,0 +1,7 @@
+{
+  "datacenter": "dc-vm-1",
+  "node_name": "agent-client",
+  "data_dir": "/opt/consul",
+  "log_level": "INFO",
+  "retry_join": ["172.17.0.2"]
+}

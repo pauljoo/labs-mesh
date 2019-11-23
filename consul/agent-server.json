@@ -5,7 +5,7 @@
   "log_level": "INFO",
   "server": true,
   "bootstrap": true,
-  "bootstrap-expect": 1,
-  "client": "0.0.0.0",
+  "bootstrap_expect": 1,
+  "client_addr": "0.0.0.0",
   "ui": true
 }
